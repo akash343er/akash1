@@ -1,3 +1,2 @@
 # Hello-World
-# chota hathi(matka)
-chaman(matke ka chawa)
+#WELCOM TO AKASH GALAXY
